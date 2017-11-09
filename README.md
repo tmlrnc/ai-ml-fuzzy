@@ -1,2 +1,2 @@
-# ai-ml-fuzzy
-ai-ml-fuzzy
+# vl-upshot-ai
+vl-upshot-ai
